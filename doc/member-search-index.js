@@ -1,0 +1,1 @@
+memberSearchIndex = [{"l":"AssessedExercise()","h":"","u":"%3Cinit%3E()"},{"l":"main(String[])","h":"","u":"main(java.lang.String[])"},{"l":"rankDocuments(SparkSession, String, String)","h":"","u":"rankDocuments(org.apache.spark.sql.SparkSession,java.lang.String,java.lang.String)"}]
